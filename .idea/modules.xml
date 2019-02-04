@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/EISTI.Connect.Four.iml" filepath="$PROJECT_DIR$/.idea/modules/EISTI.Connect.Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EISTI.Connect.Four-build.iml" filepath="$PROJECT_DIR$/.idea/modules/EISTI.Connect.Four-build.iml" />
     </modules>
   </component>
 </project>
