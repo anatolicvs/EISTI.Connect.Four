@@ -4,7 +4,7 @@
 		module="eisti-connect-four-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190203202951"
+		publication="20190204005919"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

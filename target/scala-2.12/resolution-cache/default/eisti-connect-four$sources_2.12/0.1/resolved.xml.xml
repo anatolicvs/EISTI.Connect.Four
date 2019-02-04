@@ -4,7 +4,7 @@
 		module="eisti-connect-four$sources_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20190203203021"
+		publication="20190204011504"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
