@@ -12,7 +12,7 @@ object Connect4 extends App {
     val gridNrOfRows = 6
     val computerAlgoDepth = 7
 
-    val grid = Grid(gridNrOfCols, gridNrOfRows)
+    val grid = Grid (gridNrOfCols, gridNrOfRows)
     val player1 = new ComputerPlayer("Computer", Player1, computerAlgoDepth) with BetterEvaluation
     val player2 = new HumanPlayer("Human", Player2)
 
